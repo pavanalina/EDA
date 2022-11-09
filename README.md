@@ -45,7 +45,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
+
 - This project was inspired by case study done by VINAY PRATAP SINGH
 - This project was based on [kaggle](https://www.kaggle.com/).
 - This project was based on [towardsdatascience](https://towardsdatascience.com/end-to-end-case-study-classification-lending-club-data-489f8a1b100a/)
